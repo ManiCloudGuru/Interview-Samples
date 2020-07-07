@@ -15,3 +15,30 @@
     * A : I decided to take for my team. I was asked to attend the pre customer interview training(I learned many things like how to meet approch customer..etc)
     * R : I was able to meet customer multiple times and good review from customer.(We implemented the new web site what customer want instead how it should be)
     * **Why was it important**: We want to understand the customer as commpany
+ 
+ 3. Tell me about a time when you invented something.
+ 
+ 
+ 4. How did you solve a recent business problem?
+ 
+ 
+ 5. How do you find the time to stay inspired, acquire new knowledge, and innovate in your work?
+ 
+ 6. When you train Someone?
+ 
+ 7. Give me an example of a decision you owned, which had a long-term focus.
+
+ 8. Tell me about a time when you couldn’t meet your own expectations on a project.
+ 
+ 9. Give me an example of when you did more than what was required in any job experience.
+
+ 10. Tell me about a time when you had to leave a task unfinished.
+ 
+ 11. How do you develop client relationships?
+ 
+ 12. Tell me about a time when you had to dive deep into the data and the results you achieved.
+
+
+
+
+
