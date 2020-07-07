@@ -13,5 +13,5 @@
     * T : I never met customer to interview in my carrier, it was new iniative by comapany, From my team some should go for the interview
         I was not able to answer all the questions. But, I listen to them very carefully and taken down all the notes and reschedule the discussion.
     * A : I decided to take for my team. I was asked to attend the pre customer interview training(I learned many things like how to meet approch customer..etc)
-    * R : I was able to meet customer multiple times and good review from customer.
+    * R : I was able to meet customer multiple times and good review from customer.(We implemented the new web site what customer want instead how it should be)
     * **Why was it important**: We want to understand the customer as commpany
