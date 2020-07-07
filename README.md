@@ -22,9 +22,15 @@
  4. How did you solve a recent business problem?
  
  
+ 
  5. How do you find the time to stay inspired, acquire new knowledge, and innovate in your work?
  
  6. When you train Someone?
+    * Where : When I was working for a company x (Verizon), One of my team met left the team in critical time
+    * S : I got a situation to demonstrate my Logstash Kubernets Pipeline Implementation to Customer
+    * T : We got recruited new team mate, 
+    * A : I schedule the multiple sessions to explain the CICD pipeline, Helm Chart deployment, as deployment pipeline and cloud formations and gave small task.
+    * R : He came to up to speed we were successfully going on as per schedule
  
  7. Give me an example of a decision you owned, which had a long-term focus.
 
