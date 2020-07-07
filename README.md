@@ -21,7 +21,7 @@
     * S : I got a situation to collect the existing AWS network resources (People were doing manually)
     * T : I have to get all AWS network resources for each account and generate as excel for the migration
     * A : I have created a python lambda, which will collect the ash network resources, convert to excel and push to s3 bucket
-    * R : It reduced lot of manual effort and improved velocity for the migration.    
+    * R : It reduced a lot of manual effort and improved velocity for the migration.    
  
  
  4. How did you solve a recent business problem?
